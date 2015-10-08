@@ -274,6 +274,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/victara/proprietary/bin/qcks:system/bin/qcks \
     vendor/motorola/victara/proprietary/bin/qmi_motext_hook:system/bin/qmi_motext_hook \
     vendor/motorola/victara/proprietary/bin/qmuxd:system/bin/qmuxd \
+    vendor/motorola/victara/proprietary/bin/radish:system/bin/radish \
     vendor/motorola/victara/proprietary/bin/rild.mmi:system/bin/rild.mmi \
     vendor/motorola/victara/proprietary/bin/rfs_access:system/bin/rfs_access \
     vendor/motorola/victara/proprietary/bin/rmt_storage:system/bin/rmt_storage \
@@ -294,6 +295,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/victara/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
     vendor/motorola/victara/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
     vendor/motorola/victara/proprietary/bin/stm401:system/bin/stm401 \
+    vendor/motorola/victara/proprietary/etc/firmware/cy8c20247_24lkxi.hex:system/etc/firmware/cy8c20247_24lkxi.hex \
     vendor/motorola/victara/proprietary/etc/firmware/sensorhubfw.bin:system/etc/firmware/sensorhubfw.bin \
     vendor/motorola/victara/proprietary/etc/firmware/sensorhubfw_p0.bin:system/etc/firmware/sensorhubfw_p0.bin \
     vendor/motorola/victara/proprietary/etc/firmware/sensorhubver_p0.txt:system/etc/firmware/sensorhubver_p0.txt \
